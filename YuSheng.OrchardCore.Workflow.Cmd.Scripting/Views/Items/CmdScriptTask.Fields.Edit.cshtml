@@ -1,0 +1,11 @@
+@using YuSheng.OrchardCore.Workflow.Cmd.Scripting.ViewModels;
+@model ScriptTaskViewModel
+
+
+<div class="form-group" asp-validation-class-for="CmdFilePath">
+    <label asp-for="CmdFilePath">@T["cmd file path"]</label>
+    <input asp-for="CmdFilePath" class="form-control" />
+    <span asp-validation-for="CmdFilePath"></span>
+    <span class="hint">@T["Input cmd exec path manually"]</span>
+</div>
+
