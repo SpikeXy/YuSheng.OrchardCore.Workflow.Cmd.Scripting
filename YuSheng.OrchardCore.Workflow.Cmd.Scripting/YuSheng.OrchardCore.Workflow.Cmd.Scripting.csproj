@@ -10,8 +10,8 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Version>0.0.1</Version>
     <Authors>spike</Authors>
-    <Company>spike</Company>
-    <Copyright>spike @ 2022</Copyright>
+    <Company>yusheng</Company>
+    <Copyright>spike @ 2024</Copyright>
     <PackageProjectUrl>https://github.com/SpikeXy/YuSheng.OrchardCore.Workflow.Cmd.Scripting</PackageProjectUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageIcon>horse-face-front-view-sketch.png</PackageIcon>
