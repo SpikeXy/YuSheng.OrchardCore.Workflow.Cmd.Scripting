@@ -4,11 +4,11 @@ using OrchardCore.Modules.Manifest;
     Name = "YuSheng OrchardCore Workflow Cmd Scripting",
     Author = "spike",
     Website = "",
-    Version = "0.0.1"
+    Version = "0.0.4"
 )]
 
 [assembly: Feature(
-    Id = "YuSheng OrchardCore Workflow Cmd Scripting",
+    Id = "YuSheng.OrchardCore.Workflow.Cmd.Scripting",
     Name = "YuSheng OrchardCore Workflow Cmd Scripting",
     Description = "Provides cmd scripting ",
     Dependencies = new[] { "OrchardCore.Workflows" },
